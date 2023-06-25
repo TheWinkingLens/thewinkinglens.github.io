@@ -923,9 +923,9 @@ ol {
 }
 
 .contact-form textarea {
-	height: 145px;
-	min-height: 145px;
-	margin-bottom: 38px;
+	height: 155px;
+	min-height: 155px;
+	margin-bottom: 35x;
 }
 
 .text-msg::-webkit-input-placeholder {
